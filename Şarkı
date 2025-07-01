@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Test Şarkı Listesi</title>
+</head>
+<body>
+  <h1>Test Şarkı Listesi</h1>
+
+  <div>
+    <p>1. Müslüm Gürses - Nilüfer</p>
+    <audio controls preload="none">
+      <source src="https://cdn.pixabay.com/download/audio/2022/03/30/audio_4a59b297f0.mp3?filename=soft-music-11089.mp3" type="audio/mp3" />
+    </audio>
+  </div>
+
+  <div>
+    <p>2. Era7capone, Kero - Duruldum</p>
+    <audio controls preload="none">
+      <source src="https://cdn.pixabay.com/download/audio/2022/03/02/audio_760e7f1c39.mp3?filename=lofi-chill-9815.mp3" type="audio/mp3" />
+    </audio>
+  </div>
+
+  <div>
+    <p>3. Çağatay Akman - Yüreğim Davacı</p>
+    <audio controls preload="none">
+      <source src="https://cdn.pixabay.com/download/audio/2021/09/20/audio_470b18c1a8.mp3?filename=acoustic-guitar-8195.mp3" type="audio/mp3" />
+    </audio>
+  </div>
+
+</body>
+</html>
